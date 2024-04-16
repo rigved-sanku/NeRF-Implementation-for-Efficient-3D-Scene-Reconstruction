@@ -1,0 +1,11 @@
+## In order to run the training file
+python Wrapper.py
+
+
+## In order to run the train file for ship
+
+python ship.py
+
+## In order to run the test file 
+
+python test.py
